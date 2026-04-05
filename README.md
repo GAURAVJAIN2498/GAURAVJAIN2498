@@ -19,19 +19,20 @@ DevOps Engineer with 2+ years of experience in AWS, CI/CD automation, containeri
 - Implementing monitoring and alerting systems  
 
 ---
-
 ## ⚙️ Tech Stack
 
 ### ☁️ Cloud
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure)
 
-### 🚀 DevOps Tools
+### 🚀 DevOps & CI/CD
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-FE6D73?style=flat-square&logo=argo)
 
 ### 📊 Monitoring
 ![CloudWatch](https://img.shields.io/badge/CloudWatch-FF9900?style=flat-square&logo=amazonaws)
