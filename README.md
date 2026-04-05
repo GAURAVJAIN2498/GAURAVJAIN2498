@@ -77,24 +77,11 @@ CloudWatch • Prometheus • Grafana • Checkmk
 ### 💻 System & Tools
 Linux • Nginx • Git • Shell Scripting
 
----
-
 ## 📫 Connect With Me
 
-<p>
-<a href="mailto:gauravjain2498@gmail.com">
-  <img src="https://img.shields.io/badge/Email-gauravjain2498@gmail.com-blue?style=flat-square&logo=gmail"/>
-</a>
-
-<a href="https://www.linkedin.com/in/gaurav-jain-8b39b7247/">
-  <img src="https://img.shields.io/badge/LinkedIn-Gaurav%20Jain-blue?style=flat-square&logo=linkedin"/>
-</a>
-
-<a href="https://github.com/GAURAVJAIN2498">
-  <img src="https://img.shields.io/badge/GitHub-Gaurav%20Jain-gray?style=flat-square&logo=github"/>
-</a>
-</p>
----
+[![Email](https://img.shields.io/badge/Email-gauravjain2498%40gmail.com-red?style=flat-square&logo=gmail)](mailto:gauravjain2498@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gaurav%20Jain-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/gaurav-jain-8b39b7247/)
+[![GitHub](https://img.shields.io/badge/GitHub-Gaurav%20Jain-black?style=flat-square&logo=github)](https://github.com/GAURAVJAIN2498)
 
 ## 📊 GitHub Stats
 
