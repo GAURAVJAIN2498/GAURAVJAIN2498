@@ -81,8 +81,7 @@ Linux • Nginx • Git • Shell Scripting
 
 [![Email](https://img.shields.io/badge/Email-gauravjain2498%40gmail.com-red?style=flat-square&logo=gmail)](mailto:gauravjain2498@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gaurav%20Jain-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/gaurav-jain-8b39b7247/)
-[![GitHub](https://img.shields.io/badge/GitHub-Gaurav%20Jain-black?style=flat-square&logo=github)](https://github.com/GAURAVJAIN2498)
-
+[![GitHub](https://img.shields.io/badge/GitHub-Gaurav%20Jain-181717?style=flat-square&logo=github)](https://github.com/GAURAVJAIN2498)
 ## 📊 GitHub Stats
 
 <p align="center">
